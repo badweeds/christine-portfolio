@@ -1396,7 +1396,7 @@ export default function App() {
               <div className="flex flex-col gap-4">
                 {[
                   { icon: Mail, label: "Email", value: "abenojachrist@gmail.com" },
-                  { icon: Phone, label: "Phone", value: "+63 993 649 4358" },
+                  { icon: Phone, label: "Phone", value: "(+63) 993 649 4358" },
                   { icon: MapPin, label: "Location", value: "Davao City, Philippines" },
                   { icon: Briefcase, label: "Availability", value: "Open to full-time roles" },
                 ].map(({ icon: Icon, label, value }, i) => (
